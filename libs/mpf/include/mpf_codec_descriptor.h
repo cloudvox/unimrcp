@@ -29,7 +29,7 @@
 APT_BEGIN_EXTERN_C
 
 /** Codec frame time base in msec */
-#define CODEC_FRAME_TIME_BASE 10
+#define CODEC_FRAME_TIME_BASE 20
 /** Bytes per sample for linear pcm */
 #define BYTES_PER_SAMPLE 2
 /** Bits per sample for linear pcm */
